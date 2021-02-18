@@ -1,16 +1,16 @@
-### Hi there 👋
+Hey! I'm Fine :)
+I'm a Procoder and a self taught developer
 
-<!--
-**finefn/finefn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 I’m currently working on Cheats
 
-Here are some ideas to get you started:
+📚 I’m currently learning everything about c++ 😅
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💪🏼 Future Goals: Learn 4 More languages.
+
+⚡ Fun fact: I code alot.
+
+You can always find me on discord :)
+
+My Discord Server: https://discord.gg/4y74vRsqt2
+
+fine#1337
