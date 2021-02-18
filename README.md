@@ -1,7 +1,7 @@
 Hey! I'm Fine :)
 I'm a Procoder and a self taught developer
 
-👨‍💻 I’m currently working on Cheats
+👨‍💻 I’m currently working on StarFN
 
 📚 I’m currently learning everything about c++ 😅
 
